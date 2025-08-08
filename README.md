@@ -2,6 +2,10 @@
 
 A modern Android application that allows users to create polls, vote on them, and view real-time results with beautiful bar charts.
 
+## Screenshots
+
+<img src="https://github.com/narsale17/Voting_App/blob/main/Voting_App_Media/IMG-20250808-WA0005.jpg" width="200" />  
+
 ## Features
 
 ### Login System
