@@ -8,7 +8,8 @@ A modern Android application that allows users to create polls, vote on them, an
 
 ## Demo
 
-https://github.com/narsale17/Voting_App/blob/main/Voting_App_Media/recording.mp4
+https://github.com/user-attachments/assets/2bc8752e-625e-463d-8cea-8bdfbb338fbb
+
 
 ## Features
 
