@@ -44,13 +44,6 @@ https://github.com/user-attachments/assets/2bc8752e-625e-463d-8cea-8bdfbb338fbb
 
 ## Installation
 
-1. Clone the repository
-2. Open in Android Studio
-3. Sync Gradle files
-4. Build and run on device/emulator
-
-## GitHub Repository
-
  - How to Download/Setup:
 
 ```bash
