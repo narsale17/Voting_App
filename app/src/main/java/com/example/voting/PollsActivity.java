@@ -98,14 +98,25 @@ public class PollsActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         if (item.getItemId() == R.id.action_logout) {
-            sharedPrefsManager.logout();
-            Intent intent = new Intent(this, LoginActivity.class);
-            intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
-            startActivity(intent);
-            finish();
+            showLogoutConfirmationDialog();
             return true;
         }
         return super.onOptionsItemSelected(item);
+    }
+
+    private void showLogoutConfirmationDialog() {
+        new androidx.appcompat.app.AlertDialog.Builder(this)
+                .setTitle("Logout")
+                .setMessage("Are you sure you want to logout?")
+                .setPositiveButton("Yes", (dialog, which) -> {
+                    sharedPrefsManager.logout();
+                    Intent intent = new Intent(this, LoginActivity.class);
+                    intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
+                    startActivity(intent);
+                    finish();
+                })
+                .setNegativeButton("No", null)
+                .show();
     }
 
     @Override

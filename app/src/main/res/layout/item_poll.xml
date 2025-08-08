@@ -30,7 +30,7 @@
             android:layout_height="wrap_content"
             android:text="• Red\n• Blue\n• Green"
             android:textSize="14sp"
-            android:textColor="@color/gray"
+            android:textColor="@color/black"
             android:layout_marginBottom="8dp" />
 
         <TextView
@@ -39,7 +39,7 @@
             android:layout_height="wrap_content"
             android:text="Dec 15, 2024"
             android:textSize="12sp"
-            android:textColor="@color/gray"
+            android:textColor="@color/black"
             android:layout_gravity="end" />
 
     </LinearLayout>
