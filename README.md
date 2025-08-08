@@ -41,13 +41,6 @@ https://github.com/user-attachments/assets/2bc8752e-625e-463d-8cea-8bdfbb338fbb
 - Clears stored username and redirects to login
 - Clean session management
 
-## Dependencies
-
-- **AndroidX**: Core Android components
-- **Material Design**: Modern UI components
-- **Room**: Local database
-- **MPAndroidChart**: Chart visualization
-- **RecyclerView**: Efficient list display
 
 ## Installation
 
@@ -56,10 +49,10 @@ https://github.com/user-attachments/assets/2bc8752e-625e-463d-8cea-8bdfbb338fbb
 3. Sync Gradle files
 4. Build and run on device/emulator
 
-## Usage
+## GitHub Repository
 
-1. **Login**: Enter a username to start
-2. **Create Polls**: Tap the + button to create new polls
-3. **Vote**: Tap on any poll to vote
-4. **View Results**: See real-time results with charts
-5. **Logout**: Use the menu to logout
+ - How to Download:
+
+```bash
+    
+    git clone "https://github.com/narsale17/Voting_App.git"
