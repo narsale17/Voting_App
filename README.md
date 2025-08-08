@@ -4,7 +4,11 @@ A modern Android application that allows users to create polls, vote on them, an
 
 ## Screenshots
 
-<img src="https://github.com/narsale17/Voting_App/blob/main/Voting_App_Media/IMG-20250808-WA0005.jpg" width="200" />  
+<img src="https://github.com/narsale17/Voting_App/blob/main/Voting_App_Media/IMG-20250808-WA0005.jpg" width="200" />  <img src="https://github.com/narsale17/Voting_App/blob/main/Voting_App_Media/IMG-20250808-WA0011.jpg" width="200" /> <img src="https://github.com/narsale17/Voting_App/blob/main/Voting_App_Media/IMG-20250808-WA0007.jpg" width="200" /> <img src="https://github.com/narsale17/Voting_App/blob/main/Voting_App_Media/IMG-20250808-WA0009.jpg" width="200" />  <img src="https://github.com/narsale17/Voting_App/blob/main/Voting_App_Media/IMG-20250808-WA0012.jpg" width="200" /> <img src="https://github.com/narsale17/Voting_App/blob/main/Voting_App_Media/IMG-20250808-WA0010.jpg" width="200" /> <img src="https://github.com/narsale17/Voting_App/blob/main/Voting_App_Media/IMG-20250808-WA0008.jpg" width="200" /> <img src="https://github.com/narsale17/Voting_App/blob/main/Voting_App_Media/IMG-20250808-WA0006.jpg" width="200" /> 
+
+## Demo
+
+https://github.com/narsale17/Voting_App/blob/main/Voting_App_Media/recording.mp4
 
 ## Features
 
