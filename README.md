@@ -51,8 +51,7 @@ https://github.com/user-attachments/assets/2bc8752e-625e-463d-8cea-8bdfbb338fbb
 
 ## GitHub Repository
 
- - How to Download:
+ - How to Download/Setup:
 
 ```bash
-    
     git clone "https://github.com/narsale17/Voting_App.git"
